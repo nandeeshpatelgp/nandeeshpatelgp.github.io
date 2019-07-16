@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[RenovationProject2]]></data>
+  <data name="en_project_author_name"><![CDATA[S Immobilien GmbH]]></data>
+  <data name="en_project_author_url"><![CDATA[https://www.s-immobilien-gmbh.de/]]></data>
+
+
+  <data name="en_panogroup5990_title"><![CDATA[Erdgeschoss]]></data>
+
+  <data name="en_pano6495_title"><![CDATA[Wohnen]]></data>
+  <data name="en_spotpoint6496_tooltip"><![CDATA[Küche]]></data>
+  <data name="en_pano5991_title"><![CDATA[Wohnen]]></data>
+  <data name="en_spotpoint5992_tooltip"><![CDATA[Küche]]></data>
+  <data name="en_pano6497_title"><![CDATA[Küche]]></data>
+  <data name="en_spotpoint6498_tooltip"><![CDATA[Wohnen]]></data>
+  <data name="en_spotpoint6499_tooltip"><![CDATA[Schlafen]]></data>
+  <data name="en_spotpoint6500_tooltip"><![CDATA[Bad/WC]]></data>
+  <data name="en_pano5993_title"><![CDATA[Küche]]></data>
+  <data name="en_spotpoint5994_tooltip"><![CDATA[Wohnen]]></data>
+  <data name="en_spotpoint5995_tooltip"><![CDATA[Schlafen]]></data>
+  <data name="en_spotpoint5996_tooltip"><![CDATA[Bad/WC]]></data>
+  <data name="en_pano6501_title"><![CDATA[Bad/WC]]></data>
+  <data name="en_spotpoint6502_tooltip"><![CDATA[Küche]]></data>
+  <data name="en_spotpoint6503_tooltip"><![CDATA[Schlafen]]></data>
+  <data name="en_pano5997_title"><![CDATA[Bad/WC]]></data>
+  <data name="en_spotpoint5998_tooltip"><![CDATA[Küche]]></data>
+  <data name="en_spotpoint5999_tooltip"><![CDATA[Schlafen]]></data>
+  <data name="en_pano6504_title"><![CDATA[Schlafen]]></data>
+  <data name="en_spotpoint6505_tooltip"><![CDATA[Küche]]></data>
+  <data name="en_spotpoint6506_tooltip"><![CDATA[Bad/WC]]></data>
+  <data name="en_spotpoint6507_tooltip"><![CDATA[Schlafen]]></data>
+  <data name="en_pano6000_title"><![CDATA[Schlafen]]></data>
+  <data name="en_spotpoint6001_tooltip"><![CDATA[Küche]]></data>
+  <data name="en_spotpoint6002_tooltip"><![CDATA[Bad/WC]]></data>
+  <data name="en_spotpoint6003_tooltip"><![CDATA[Schlafen]]></data>
+  <data name="en_pano6508_title"><![CDATA[Schlafen]]></data>
+  <data name="en_spotpoint6509_tooltip"><![CDATA[Balkon]]></data>
+  <data name="en_spotpoint6510_tooltip"><![CDATA[Schlafen]]></data>
+  <data name="en_pano6004_title"><![CDATA[Schlafen]]></data>
+  <data name="en_spotpoint6005_tooltip"><![CDATA[Balkon]]></data>
+  <data name="en_spotpoint6006_tooltip"><![CDATA[Schlafen]]></data>
+  <data name="en_pano6511_title"><![CDATA[Balkon]]></data>
+  <data name="en_spotpoint6512_tooltip"><![CDATA[Schlafen]]></data>
+  <data name="en_pano6007_title"><![CDATA[Balkon]]></data>
+  <data name="en_spotpoint6008_tooltip"><![CDATA[Schlafen]]></data>
+
+
+
+
+
+	<data name="en_panogroup5990_floor_title"><![CDATA[Erdgeschoss]]></data>
+	<data name="en_spotmap6487_tooltip"><![CDATA[Wohnen]]></data>
+	<data name="en_spotmap6488_tooltip"><![CDATA[Küche]]></data>
+	<data name="en_spotmap6489_tooltip"><![CDATA[Bad/WC]]></data>
+	<data name="en_spotmap6490_tooltip"><![CDATA[Schlafen]]></data>
+	<data name="en_spotmap6491_tooltip"><![CDATA[Schlafen]]></data>
+	<data name="en_spotmap6492_tooltip"><![CDATA[Balkon]]></data>
+
+  <data name="en_thin_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_thin_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_thin_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_thin_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_thin_controlBar_classicdisplayFloorplanTip"><![CDATA[Show floorplan]]></data>
+  <data name="en_thin_controlBar_classichideFloorplanTip"><![CDATA[Hide floorplan]]></data>
+  <data name="en_thin_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_thin_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_thin_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_thin_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_togglebuttonfirsttooltip"><![CDATA[Vorher]]></data>
+  <data name="en_togglebuttonsecondtooltip"><![CDATA[Nachher]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
